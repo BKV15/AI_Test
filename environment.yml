@@ -1,0 +1,11 @@
+name: interview
+channels:
+  - defaults
+dependencies:
+  - python=3.9.7
+  - ffmpeg
+  - notebook
+  - pip:
+      - hazm
+      - pydub
+prefix: F:\Miniconda3\envs\interview
