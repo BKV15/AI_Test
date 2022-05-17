@@ -7,7 +7,7 @@ This repository contains notebook and codes for generating `json` from a `tsv` d
 
 ### Cloud
 
-You can run these codes in google colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/BKV15/AI_Test/blob/main/cloud/Interview.ipynb)]
+You can run these codes in google colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BKV15/AI_Test/blob/main/cloud/Interview.ipynb)
 
 ### Local Machine
 
